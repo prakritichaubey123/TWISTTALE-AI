@@ -3,7 +3,7 @@ from utils import qa_pipeline
 
 # Load the QA pipeline
 chain = qa_pipeline()
-#gbsdkdhbajs
+#gbsdkdh
 def main():
     # Set the title of the web application
     st.title('Twist Tale AI')
